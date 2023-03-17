@@ -1,0 +1,108 @@
+[
+    {
+      "id": 0,
+      "name": "iPhone 14 Pro Max",
+      "description": "this is description of apple product",
+      "imageUrl": "https://icentar.me/wp-content/uploads/2022/09/m2022-iphone14promax.png",
+      "price": 1299
+    },
+    {
+      "id": 1,
+      "name": "iPhone 14 Pro",
+      "description": "this is description of apple product",
+      "imageUrl": "https://icentar.me/wp-content/uploads/2022/09/m2022-iphone14pro.png",
+      "price": 1199
+    },
+    {
+      "id": 2,
+      "name": "iPhone 13",
+      "description": "this is description of apple product",
+      "imageUrl": "https://icentar.me/wp-content/uploads/2021/10/m21-iphone13.png",
+      "price": 999
+    },
+    {
+      "id": 3,
+      "name": "iPhone SE 2022",
+      "description": "this is description of apple product",
+      "imageUrl": "https://icentar.me/wp-content/uploads/2022/03/m2022-iphone-se.png",
+      "price": 899
+    },
+    {
+      "id": 4,
+      "name": "iPhone 12",
+      "description": "this is description of apple product",
+      "imageUrl": "https://icentar.me/wp-content/uploads/2020/10/m4-iphone12.png",
+      "price": 799
+    },
+   
+    {
+      "id": 5,
+      "name": "Macbook Air",
+      "description": "this is description of apple product",
+      "imageUrl": "https://icentar.me/wp-content/uploads/2022/03/m2022-mba.png",
+      "price": 1999
+    },
+    {
+      "id": 6,
+      "name": "Macbook Pro 13' ",
+      "description": "this is description of apple product",
+      "imageUrl": "https://icentar.me/wp-content/uploads/2022/03/m2022-mbp13.png",
+      "price": 1299
+    },
+    {
+      "id": 7,
+      "name": "İMac 24' ",
+      "description": "this is description of apple product",
+      "imageUrl": "https://icentar.me/wp-content/uploads/2022/03/m2022-imac24.png",
+      "price": 2499
+    },
+    {
+      "id": 8,
+      "name": "İPad Pro M2 ",
+      "description": "this is description of apple product",
+      "imageUrl": "https://icentar.me/wp-content/uploads/2022/10/m2022-ipadpro-m2.png",
+      "price": 599
+    },
+    {
+      "id": 9,
+      "name": "İPad mini ",
+      "description": "this is description of apple product",
+      "imageUrl": "https://icentar.me/wp-content/uploads/2021/09/m5-ipadmini6.png",
+      "price": 499
+    },
+    {
+      "id": 10,
+      "name": "Apple Watch Series 8 GPS",
+      "description": "this is description of apple product",
+      "imageUrl": "https://icentar.me/wp-content/uploads/2022/09/m2022-watch8.png",
+      "price": 399
+    },
+    {
+      "id": 11,
+      "name": "Apple Watch SE GPS (2022)",
+      "description": "this is description of apple product",
+      "imageUrl": "https://icentar.me/wp-content/uploads/2022/09/m2022-watchSE2.png",
+      "price": 399
+    },
+    {
+      "id": 12,
+      "name": "Apple Watch Magnetic Fast Charger",
+      "description": "this is description of apple product",
+      "imageUrl": "https://icentar.me/wp-content/uploads/2021/10/apple-watch-fast-charger-usbc-cable-1m-01-300x300.jpeg",
+      "price": 99
+    },
+    {
+        "id": 13,
+        "name": "Mac studio",
+        "description": "this is description of apple product",
+        "imageUrl": "https://icentar.me/wp-content/uploads/2022/03/m2022-macstudio.png",
+        "price": 89
+      },
+      {
+        "id": 14,
+        "name": "Mac mini",
+        "description": "this is description of apple product",
+        "imageUrl": "https://icentar.me/wp-content/uploads/2022/03/m2022-macmini.png",
+        "price": 79
+      }
+  ]
